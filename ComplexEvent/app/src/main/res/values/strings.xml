@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ComplexEvent</string>
+    <string name="enter_text">Введите текст</string>
+    <string name="need_save">Точно сохранить?</string>
+    <string name="save">Сохранить</string>
+</resources>
